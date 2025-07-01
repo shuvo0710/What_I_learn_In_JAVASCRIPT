@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "name": "anisul islam",
+      "middleName": null,
+      "age": 23,
+      "cgpa": 3.17,
+      "isRgistered": true,
+      "language": ["bengali", "english", "hindi"],
+      "friends": [
+        {
+          "name": "umme habiba islam rupa",
+          "age": 23
+        },
+        {
+          "name": "nizam uddin shuvo",
+          "age": "22"
+        }
+      ]
+    },
+    {
+      "name": "raabeya begum",
+      "middleName": null,
+      "age": 27,
+      "cgpa": 3.89,
+      "isRgistered": false,
+      "language": ["bengali", "urdu", "finish", "hindi"],
+      "friends": [
+        {
+          "name": "shakila rahman",
+          "age": 23
+        },
+        {
+          "name": "umme sadiya salsabil",
+          "age": "29"
+        }
+      ]
+    }
+  ]
+}
