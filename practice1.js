@@ -52,12 +52,10 @@ function calculateNetIncome(income, tax) {
   return income - tax;
 }
 
-// 🔧 Fixed spelling: calculatBalance → calculateBalance
 function calculateBalance(net_income, totalExpenses) {
   return net_income - totalExpenses;
 }
 
-// 🔧 Fixed spelling: calculatesavings → calculateSavings
 function calculateSavings(balance, savingAmount) {
   return balance * savingAmount;
 }

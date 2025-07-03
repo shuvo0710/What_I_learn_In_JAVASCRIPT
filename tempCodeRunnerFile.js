@@ -1,5 +1,17 @@
-name[0] = "anis";
-// name[1] = "lima";
-// name[2] = "shipa";
-// name[3] = "rinku";
-// name[4] = "shuvo";
+console.log(JSON.stringify(data2));
+
+// console.log(
+//   JSON.parse({
+//     friends: [
+//       {
+//         name: "nizam uddin shuvo",
+//         age: 25,
+//       },
+
+//       {
+//         name: "umme habiba islam rupa",
+//         age: 23,
+//       },
+//     ],
+//   })
+// );
